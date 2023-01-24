@@ -1,0 +1,5 @@
+#virtual enviroment directory
+venv
+build
+dist
+fesso.spec
