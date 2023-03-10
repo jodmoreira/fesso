@@ -3,3 +3,7 @@ venv
 build
 dist
 fesso.spec
+# remove training set
+testing/training_set
+output.csv
+teste2.csv
